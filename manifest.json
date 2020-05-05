@@ -5,6 +5,7 @@
     "description": "Update object width & height.",
     "languages": ["en"],
     "author": "Abhishek Jain",
+    
     "host": {
       "app": "XD",
       "minVersion": "13.0"

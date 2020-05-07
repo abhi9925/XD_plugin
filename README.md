@@ -1,7 +1,7 @@
 # XD_plugin
 
-Added a Adobe XD plugin named - updateLayout2
+Added a Adobe XD plugin named - updateLayout
 
-It changes the width and height of all the selected objects to 300 and 100 respectively.
-
+It takes the height, width and the colour hex code from the user and then updates the dimensions of the selected rectangle and fills it with the colour entered by the user.
+ 
 Windows shortcut - Ctrl+Alt+N
